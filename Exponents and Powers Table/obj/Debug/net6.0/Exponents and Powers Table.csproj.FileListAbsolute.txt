@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\bin\Debug\net6.0\Exponents and Powers Table.exe
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\bin\Debug\net6.0\Exponents and Powers Table.deps.json
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\bin\Debug\net6.0\Exponents and Powers Table.runtimeconfig.json
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\bin\Debug\net6.0\Exponents and Powers Table.dll
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\bin\Debug\net6.0\Exponents and Powers Table.pdb
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\obj\Debug\net6.0\Exponents and Powers Table.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\obj\Debug\net6.0\Exponents and Powers Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\obj\Debug\net6.0\Exponents and Powers Table.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\obj\Debug\net6.0\Exponents and Powers Table.AssemblyInfo.cs
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\obj\Debug\net6.0\Exponents and Powers Table.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\obj\Debug\net6.0\Exponents and Powers Table.dll
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\obj\Debug\net6.0\refint\Exponents and Powers Table.dll
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\obj\Debug\net6.0\Exponents and Powers Table.pdb
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\obj\Debug\net6.0\Exponents and Powers Table.genruntimeconfig.cache
+C:\Users\Liam\source\repos\Exponents and Powers Table\Exponents and Powers Table\obj\Debug\net6.0\ref\Exponents and Powers Table.dll
